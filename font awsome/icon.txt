@@ -1,0 +1,8 @@
+location:<i class="fas fa-map-marker-alt"></i>
+message: <i class="far fa-envelope"></i>
+facebook: <i class="fab fa-facebook"></i>
+twitter: <i class="fab fa-twitter"></i>
+instagram:<i class="fab fa-instagram"></i>
+whatsapp: <i class="fab fa-whatsapp-square"></i>
+
+track: <i class="fal fa-truck"></i>
